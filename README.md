@@ -1,4 +1,4 @@
-<a href="https://goo.gl/maps/1ggwEfZDEmRWf1MGA" target="_blank"><p align="center" ><img src="/public/logo1.png" width="200" alt="Logo"/></p>
+<a href="https://goo.gl/maps/1ggwEfZDEmRWf1MGA" target="_blank"><p align="center" ><img src="https://github.com/curahdringu/starter-website-village/blob/main/public/logo1.png?raw=true" width="200" alt="Logo"/></p>
 </a>
 
 <div align="center" target="_blank">
